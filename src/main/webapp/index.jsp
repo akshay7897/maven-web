@@ -1,7 +1,7 @@
 <html>
 <body><center>
 <h1><font color='red'>Welcome Akshay Patil <font></h1>
-<h2>Thanks for coming ....!! </h2>
+<h2>Thanks to coming ....!! </h2>
 
 <a href="https://www.youtube.com/watch?v=fW8bAM6CftA">Click to know about akshay</a>
   
